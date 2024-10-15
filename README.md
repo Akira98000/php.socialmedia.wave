@@ -1,4 +1,4 @@
-# web.triilink.socialmediaProject
+# Social Media Waves (akira Santhakumaran)
 
 ## Project Overview
 
